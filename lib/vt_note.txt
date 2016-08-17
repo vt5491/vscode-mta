@@ -1,0 +1,6 @@
+I created this directory.  It's for vendor libraries, but also for the section of my extension
+that is to run directly under the vscode main process.  The 'src' folder is for the
+official extension code that will run in its own process.
+
+I need some code that runs directly in the vscode main process, so I can manipulatae the
+DOM directly.
